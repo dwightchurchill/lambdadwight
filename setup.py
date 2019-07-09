@@ -13,7 +13,7 @@ setup(
     long_description_content_type="text/markdown",
     url="http://github.com/dwightchurchill/lambdadwight/",
     download_url = 'https://github.com/user/reponame/archive/v_01.tar.gz',
-    packages=setuptools.find_packages(),
+    packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
