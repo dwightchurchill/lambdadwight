@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: lambdatadwight
+Version: 0.1
+Summary: Simple package to check nulls in your Pandas DataFrame and split datetimes into separate columns!
+Home-page: http://github.com/storborg/
+Author: Dwight Churchill
+Author-email: dwight.a.churchill@gmail.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
