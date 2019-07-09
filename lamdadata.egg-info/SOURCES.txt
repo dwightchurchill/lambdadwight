@@ -1,0 +1,7 @@
+README.md
+setup.py
+lambdatadwight/__init__.py
+lamdadata.egg-info/PKG-INFO
+lamdadata.egg-info/SOURCES.txt
+lamdadata.egg-info/dependency_links.txt
+lamdadata.egg-info/top_level.txt

@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="lamdadata",
+    name="lamdadatadwight",
     version="0.0.2",
     author="Dwight Churchill",
     author_email="dwight.a.churchill@gmail.com",
