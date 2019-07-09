@@ -6,6 +6,7 @@ Home-page: http://github.com/dwightchurchill/lambdadwight/
 Author: Dwight Churchill
 Author-email: dwight.a.churchill@gmail.com
 License: UNKNOWN
+Download-URL: https://github.com/user/reponame/archive/v_01.tar.gz
 Description: Simple package to check nulls in your Pandas DataFrame and split datetimes into separate columns!
 Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3

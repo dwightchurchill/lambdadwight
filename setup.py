@@ -12,7 +12,7 @@ setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="http://github.com/dwightchurchill/lambdadwight/",
-    download_url = 'https://github.com/user/reponame/archive/v_01.tar.gz',
+    download_url = 'https://github.com/dwightchurchill/lamdadatadwightc/dist/lamdadatadwightc-0.0.2.tar.gz',
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
