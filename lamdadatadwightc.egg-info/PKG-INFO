@@ -1,5 +1,5 @@
 Metadata-Version: 2.1
-Name: lamdadata
+Name: lamdadatadwightc
 Version: 0.0.2
 Summary: Simple package to check nulls in your Pandas DataFrame and split datetimes into separate columns!
 Home-page: http://github.com/dwightchurchill/lambdadwight/
