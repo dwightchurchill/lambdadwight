@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='lambdatadwight',
-      version='0.1',
+      version='0.2',
       description='Simple package to check nulls in your Pandas DataFrame and split datetimes into separate columns!',
       long_description='Simple package to check nulls in your Pandas DataFrame and split datetimes into separate columns!',
       long_description_content_type="text/markdown",
